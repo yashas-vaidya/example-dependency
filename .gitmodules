@@ -1,3 +1,5 @@
 [submodule "js"]
 	path = js
 	url = https://github.com/yashas-vaidya/example-submodule.git
+[submodule "example-submodule"]
+	branch = master
